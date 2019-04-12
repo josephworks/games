@@ -1,6 +1,6 @@
 var power = prompt("What number should the tiles be multiplied by when the collide? For the original 2048, enter 2.");
 function GameManager(size, InputManager, Actuator, StorageManager) {
-  this.size           = size; // Size of the grid
+  this.size           = 16; // Size of the grid
   this.inputManager   = new InputManager;
   this.storageManager = new StorageManager;
   this.actuator       = new Actuator;
