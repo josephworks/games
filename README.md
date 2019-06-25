@@ -1,2 +1,2 @@
 # https://josephworks.github.io/games
-Website for the GeekyGames organization.
+Website from the GeekyGames organization.
